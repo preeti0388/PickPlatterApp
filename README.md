@@ -8,6 +8,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Search result will be shown on the right hand side as an image list.
 - To play a video click on the image.
 
+App Demo Link : https://preeti0388.github.io/pickplatterapp/
+
 ## Available Scripts
 
 In the project directory, you can run:
